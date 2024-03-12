@@ -16,7 +16,7 @@ For debian(like kali):
 
     step3:
     compilation of program containing graphics.h file 
-    g++ file_name.cpp -lSDL2 -lgraph object_file_name.o 
+    g++ file_name.cpp -lSDL2 -lSDL_bgi object_file_name.o 
 
     step4:
     run the object file from terminal:

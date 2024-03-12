@@ -7,7 +7,8 @@ Since I am working on Linux(Kali), I had to download the sdl bgi debian file and
 For debian(like kali):
 
     step1:
-    download the debian file from [here](https://sourceforge.net/projects/sdl-bgi/)
+    download the debian file from 
+    [here](https://sourceforge.net/projects/sdl-bgi/)
 
     step2:
     run below command on the terminal from the folder containing sdl_bgi_number.deb(here number denotes version)

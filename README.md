@@ -12,7 +12,9 @@ For debian(like kali):
 
     step2:
     run below command on the terminal from the folder containing sdl_bgi_number.deb(here number denotes version)
+    ```
     sudo dpkg -i sdl_bgi_number.deb
+    ```
     replace the sdl_bgi_number.deb by actual .deb file downloaded from above link
     
 

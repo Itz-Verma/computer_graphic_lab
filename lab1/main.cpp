@@ -1,6 +1,7 @@
 #include <graphics.h>
 
 int main() {
+
     int graphicsDriver = DETECT; // DETECT: macro which detect the graphic driver automatically.
     
     int graphicsMode;
@@ -12,7 +13,6 @@ int main() {
     
     //stop all process for 1000ms.
     delay(1000);
-
     
     closegraph();
 

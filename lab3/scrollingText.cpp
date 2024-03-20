@@ -59,3 +59,7 @@ int main() {
     }
 
 }
+
+/* If on key press program does not terminates then click on the window heaader couples of time and click on any 
+ * key on the keyboard wait for a while and xkb_hit will work
+ */
